@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MockPassportServer</id>
+    <version>$version$</version>
+    <title>MockPassportServer</title>
+    <authors>mattdotson</authors>
+    <owners>mattdotson</owners>
+    <licenseUrl>https://github.com/mattdot/MockPassport/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mattdot/MockPassport</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Hello Passport</tags>
+  </metadata>
+</package>
